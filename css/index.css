@@ -187,7 +187,8 @@ li {
     font-weight:bold;
     background:transparent;
     transition:0.4s ease-in-out;
-    margin:30px 10px;
+    margin:auto;
+    text-align:center;
 }
 .btn_one:hover {
     background:white;
@@ -214,6 +215,11 @@ li {
     background:transparent;
     cursor:pointer;
     color:#fff;
+}
+
+.call-to-action {
+  text-align:center;
+  font-size:1.5em;
 }
 
 #details {
