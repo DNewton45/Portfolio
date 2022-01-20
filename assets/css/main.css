@@ -2137,6 +2137,7 @@ input, select, textarea {
 		padding: 10em 0 10em 0;
 		text-align: left;
 		position: relative;
+		overflow: hidden;
 	}
 
 		#top .image {
@@ -2169,6 +2170,7 @@ input, select, textarea {
 
 			#portfolio {
 				position: relative;
+				overflow: hidden;
 			}
 
 	#contact footer {
